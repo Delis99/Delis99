@@ -1,6 +1,7 @@
 ## Hi, I'm Delis 👋
 
-Software Engineering student focused on building production-minded full-stack systems and AI-powered applications. Experienced with Python, JavaScript, Java, MySQL, and HTML/CSS, with a strong focus on problem-solving, reliability, and clean system design. Currently seeking software engineering internships focused on backend, systems, or AI-driven products.
+Software Engineering student building production-minded full-stack applications across frontend, backend, AI/ML, and cloud systems. Experienced with Python, JavaScript, Java, MySQL, and HTML/CSS, with a strong focus on system design, reliability, and real-world problem solving. Seeking software engineering internships across frontend, backend, AI/ML, or cloud teams.
+
 
 - 🧠 Strong foundation in problem-solving, algorithms, and system design
 - ⚙️ Experience building full-stack and backend systems using Python, Java, JavaScript, MySQL, and HTML/CSS
