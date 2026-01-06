@@ -1,6 +1,6 @@
 ## Hi, I'm Delis 👋
 
-I'm a Software Engineering student who enjoys building full-stack web applications and solving complex problems through clean and efficient code, with experience working on real-world, hands-on projects.
+Software Engineering student building production-minded full-stack, systems, and AI-powered applications. Experienced with Python, JavaScript, Java, MySQL, and HTML/CSS, with a strong focus on problem-solving, reliability, and clean system design.
 
 - 🧠 Strong problem-solving and analytical skills  
 - 💻 Experience with Python, Java, JavaScript, MySQL, and HTML/CSS  
