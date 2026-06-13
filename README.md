@@ -1,13 +1,12 @@
 ## Hi, I'm Delis 👋
 
-Software Engineering candidate focused on AI-assisted systems, backend architecture, scalable APIs, and full-stack development. I build practical software projects across local LLM workflows, serverless applications, Java systems, backend APIs, dashboards, and cloud-backed web apps.
+Software Engineer candidate specializing in AI-based applications, backend technology, APIs, and full-stack development. I work on software project development including local LLM, serverless computing, Java programs, backend APIs, dashboards, and web apps on the cloud.
 
-Expected Graduation: December 2026  
-Open to software engineering internships and entry-level roles across backend, full-stack, AI systems, and cloud/infrastructure teams.
+Graduating in December 2026 I am seeking to get involved as an intern or early career professional in software engineering with a concentration in backend engineering, full-stack engineering, AI-based systems, or infrastructure/cloud roles.
 
-- 🧠 Strong foundation in problem-solving, algorithms, and system design
-- 🧩 Built full-stack and backend systems using Python, Java, React, JavaScript, SQL, and REST APIs
-- 🔐 Focused on reliability, maintainability, clean architecture, and practical engineering tradeoffs
-- ☁️ Built AI-powered systems using cloud services, local LLMs, APIs, and automation workflows
-- 📈 Interested in scalable, production-style software that solves real user and business problems
+- 🧠 Problem-solving, algorithms, and systems design background
+- 🧩 Full stack/backend systems development utilizing Python, Java, React, JavaScript, SQL, and REST APIs
+- 🔐 Reliability, maintainability, clean architecture, and engineering practicalities
+- ☁️ Developing AI-based systems using cloud technology, local LLM models, APIs, and automation workflows
+- 📈 Interested in software development that addresses user/business needs
 
